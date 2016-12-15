@@ -9,6 +9,7 @@ Version 8.12 (Unreleased)
 - Added data migration to backfill legacy release file and environment data
 - Allow gziped/deflated JavaScript artifacts to be uploaded through the API.
 - Shared issue view no longer shows SDK.
+- Added the ability for users to disable workflow notifications on a per-project basis.
 
 SDKs
 ~~~~
